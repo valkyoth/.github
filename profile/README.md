@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="./.github/images/valkyoth.webp" alt="Valkyoth overview">
+  <img src="./images/valkyoth.webp" alt="Valkyoth overview">
 </p>
 
-# Fluxheim
+# Valkyoth
